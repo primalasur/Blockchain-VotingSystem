@@ -1,3 +1,5 @@
+**Currently Work in Progress**
+
 This project integrates an Aadhaar QR Code Scanner with a Blockchain-based Voting System. Users can scan their Aadhaar QR code to authenticate and securely cast votes on the Ethereum blockchain. The QR data is validated and stored in MongoDB, ensuring a tamper-proof, decentralized voting process.
 
 Features:
