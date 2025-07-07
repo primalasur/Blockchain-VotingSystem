@@ -106,6 +106,7 @@ anchor build
 anchor deploy
 ```
 ## Project Structure
+```bash
 blockchain-e-voting/
 ├── backend/           # Express backend + DB models
 │   ├── routes/
@@ -118,6 +119,7 @@ blockchain-e-voting/
 │   ├── programs/
 │   └── migrations/
 └── README.md
+```
 
 ##LICENSE
 This project is licensed under the MIT License. See the LICENSE file for more information.
