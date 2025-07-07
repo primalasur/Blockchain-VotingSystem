@@ -65,32 +65,46 @@ This project aims to modernize the voting process using blockchain technology. B
 
 ### Steps
 
-```bash
+
 # 1. Clone the repository
+```bash
 git clone https://github.com/your-username/blockchain-e-voting.git
 cd blockchain-e-voting
+```bash
 
 # 2. Install backend dependencies
+```bash
 cd backend
 npm install
+```bash
 
 # 3. Start MongoDB
-mongod
+```bash
+mongod #(please make sure to add your own database of voters)
+```bash
 
 # 4. Run backend server
+```bash
 npm start
+```bash
 
 # 5. Install frontend dependencies
+```bash
 cd ../frontend
 npm install
+```bash
 
 # 6. Run frontend
+```bash
 npm start
+```bash
 
 # 7. Deploy smart contracts
+```bash
 solana-test-validator
 anchor build
 anchor deploy
+```bash
 
 ## Project Structure
 blockchain-e-voting/
