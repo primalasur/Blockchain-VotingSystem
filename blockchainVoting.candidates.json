@@ -1,0 +1,21 @@
+[{
+  "_id": "001",
+  "name": "Narendra Modi",
+  "party": "BJP",
+  "description": "Current PM",
+  "votes": 0
+},
+{
+  "_id": "002",
+  "name": "Arvind Kejriwal",
+  "party": "AAP",
+  "description": "Delhi CM",
+  "votes": 0
+},
+{
+  "_id": "003",
+  "name": "Rahul Gandhi",
+  "party": "Congress",
+  "description": "Representative",
+  "votes": 0
+}]
